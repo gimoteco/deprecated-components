@@ -1,3 +1,3 @@
-import { deprecatedComponent } from "Deprecated";
+import { deprecatedComponent } from "./Deprecated";
 
 export default deprecatedComponent
